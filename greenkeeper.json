@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "ioc/package.json"
+      ]
+    }
+  }
+}
